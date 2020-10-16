@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-instagram_username: ""
+instagram_username: "https://www.instagram.com/_makeup_km.05/"
 facebook_username: "https://www.facebook.com/Makeup.KM.05"
 twitter_username: "https://twitter.com/_Makeup_KM"
 github_username:
